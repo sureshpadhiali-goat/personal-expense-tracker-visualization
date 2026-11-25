@@ -1,0 +1,43 @@
+PERSONAL EXPENSE REPORT
+Generated: 2026-11-25
+========================================
+Period: 2026-06-01 to 2026-11-23
+Transactions: 260
+Total spending: INR 227,443.44
+Average daily spending: INR 1,292.29
+Highest spending category: Rent (INR 72,000.00)
+
+Monthly spending:
+month
+2026-06    43457.81
+2026-07    36137.29
+2026-08    38915.89
+2026-09    39871.58
+2026-10    41744.47
+2026-11    27316.40
+
+Budget check for 2026-11 (partial month if data ends mid-month):
+                  spent  budget  difference       status
+Bills           1306.74    3500     2193.26           OK
+Education       4892.60    2000    -2892.60  OVER BUDGET
+Entertainment   1725.21    2000      274.79           OK
+Food            3041.10    6000     2958.90           OK
+Health          1070.05    1500      429.95           OK
+Rent           12000.00   12000        0.00           OK
+Shopping        1259.19    3000     1740.81           OK
+Transport       2021.51    2500      478.49           OK
+
+Savings summary:
+            spent  income   savings  savings_rate_%
+month                                              
+2026-06  43457.81   50000   6542.19            13.1
+2026-07  36137.29   50000  13862.71            27.7
+2026-08  38915.89   50000  11084.11            22.2
+2026-09  39871.58   50000  10128.42            20.3
+2026-10  41744.47   50000   8255.53            16.5
+2026-11  27316.40   50000  22683.60            45.4
+
+Insights:
+- Rent is the largest expense, 31.7% of all spending.
+- Over budget in 2026-11: Education.
+- Average savings rate: 24.2%.

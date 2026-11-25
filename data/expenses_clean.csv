@@ -1,0 +1,261 @@
+date,category,amount,payment_method,note,month
+2026-06-01,Rent,12000.0,UPI,Monthly rent,2026-06
+2026-06-02,Transport,520.81,Cash,Uber ride,2026-06
+2026-06-02,Food,359.24,UPI,Swiggy order,2026-06
+2026-06-02,Education,1441.71,Credit Card,Udemy course,2026-06
+2026-06-03,Shopping,2127.8,UPI,Flipkart order,2026-06
+2026-06-03,Transport,75.74,Credit Card,Uber ride,2026-06
+2026-06-03,Shopping,1991.98,UPI,Amazon purchase,2026-06
+2026-06-04,Bills,1457.76,UPI,Mobile recharge,2026-06
+2026-06-04,Health,956.22,UPI,Doctor visit,2026-06
+2026-06-04,Food,175.66,Cash,Lunch at cafe,2026-06
+2026-06-05,Transport,146.1,UPI,Petrol,2026-06
+2026-06-06,Food,495.28,UPI,Swiggy order,2026-06
+2026-06-07,Food,203.94,UPI,Zomato dinner,2026-06
+2026-06-07,Bills,606.08,Credit Card,WiFi bill,2026-06
+2026-06-07,Transport,201.46,Cash,Ola cab,2026-06
+2026-06-08,Transport,118.29,UPI,Metro recharge,2026-06
+2026-06-08,Shopping,1389.3,Cash,Amazon purchase,2026-06
+2026-06-08,Shopping,1880.85,Credit Card,Flipkart order,2026-06
+2026-06-09,Shopping,1562.52,Cash,New shoes,2026-06
+2026-06-09,Transport,517.91,UPI,Ola cab,2026-06
+2026-06-09,Food,350.76,UPI,Grocery store,2026-06
+2026-06-11,Food,94.08,UPI,Tea and snacks,2026-06
+2026-06-11,Entertainment,648.24,UPI,Netflix,2026-06
+2026-06-11,Food,490.39,Cash,Grocery store,2026-06
+2026-06-12,Food,511.72,UPI,Swiggy order,2026-06
+2026-06-12,Transport,130.31,Cash,Petrol,2026-06
+2026-06-12,Food,470.78,UPI,Grocery store,2026-06
+2026-06-13,Food,676.38,Debit Card,Swiggy order,2026-06
+2026-06-13,Bills,545.63,Debit Card,Electricity bill,2026-06
+2026-06-13,Bills,784.17,UPI,Mobile recharge,2026-06
+2026-06-16,Transport,153.32,UPI,Ola cab,2026-06
+2026-06-17,Bills,761.72,Cash,Electricity bill,2026-06
+2026-06-17,Shopping,577.33,UPI,Flipkart order,2026-06
+2026-06-17,Food,611.1,Credit Card,Lunch at cafe,2026-06
+2026-06-18,Shopping,1128.43,Cash,New shoes,2026-06
+2026-06-18,Transport,224.72,UPI,Uber ride,2026-06
+2026-06-18,Food,444.34,UPI,Grocery store,2026-06
+2026-06-19,Education,1023.46,Credit Card,Udemy course,2026-06
+2026-06-22,Transport,565.18,Cash,Metro recharge,2026-06
+2026-06-23,Food,285.57,Cash,Lunch at cafe,2026-06
+2026-06-23,Transport,52.1,Credit Card,Uber ride,2026-06
+2026-06-24,Food,423.5,UPI,Zomato dinner,2026-06
+2026-06-24,Entertainment,230.81,Debit Card,Spotify,2026-06
+2026-06-24,Food,488.84,Credit Card,Zomato dinner,2026-06
+2026-06-29,Education,736.38,Cash,Udemy course,2026-06
+2026-06-29,Food,594.47,Credit Card,Tea and snacks,2026-06
+2026-06-30,Transport,595.73,Credit Card,Uber ride,2026-06
+2026-06-30,Education,546.91,UPI,Udemy course,2026-06
+2026-06-30,Health,1082.79,Cash,Gym fee,2026-06
+2026-07-01,Rent,12000.0,UPI,Monthly rent,2026-07
+2026-07-01,Entertainment,646.25,UPI,Movie tickets,2026-07
+2026-07-02,Food,156.11,Credit Card,Tea and snacks,2026-07
+2026-07-02,Food,451.62,Credit Card,Swiggy order,2026-07
+2026-07-02,Bills,541.2,Debit Card,Electricity bill,2026-07
+2026-07-05,Entertainment,878.87,Cash,Movie tickets,2026-07
+2026-07-06,Food,222.39,UPI,Swiggy order,2026-07
+2026-07-08,Food,578.56,Credit Card,Lunch at cafe,2026-07
+2026-07-08,Food,393.92,Cash,Zomato dinner,2026-07
+2026-07-10,Food,382.92,Cash,Grocery store,2026-07
+2026-07-10,Food,156.73,Debit Card,Swiggy order,2026-07
+2026-07-11,Food,653.38,UPI,Tea and snacks,2026-07
+2026-07-12,Shopping,622.38,UPI,Flipkart order,2026-07
+2026-07-12,Transport,581.09,Cash,Uber ride,2026-07
+2026-07-13,Entertainment,500.54,Credit Card,Spotify,2026-07
+2026-07-13,Food,594.25,Credit Card,Swiggy order,2026-07
+2026-07-13,Food,409.08,Cash,Tea and snacks,2026-07
+2026-07-14,Shopping,1266.4,UPI,New shoes,2026-07
+2026-07-14,Shopping,2221.73,UPI,Flipkart order,2026-07
+2026-07-14,Food,226.73,Credit Card,Tea and snacks,2026-07
+2026-07-15,Food,121.27,Cash,Grocery store,2026-07
+2026-07-15,Health,282.08,UPI,Doctor visit,2026-07
+2026-07-15,Entertainment,382.75,UPI,Movie tickets,2026-07
+2026-07-17,Food,114.35,UPI,Swiggy order,2026-07
+2026-07-18,Food,392.81,Credit Card,Zomato dinner,2026-07
+2026-07-18,Food,192.53,UPI,Tea and snacks,2026-07
+2026-07-18,Shopping,1829.5,UPI,Amazon purchase,2026-07
+2026-07-21,Transport,96.94,UPI,Uber ride,2026-07
+2026-07-21,Transport,67.58,UPI,Petrol,2026-07
+2026-07-23,Food,603.02,Debit Card,Tea and snacks,2026-07
+2026-07-25,Entertainment,497.1,UPI,Spotify,2026-07
+2026-07-25,Entertainment,734.61,Cash,Netflix,2026-07
+2026-07-25,Food,412.36,Cash,Zomato dinner,2026-07
+2026-07-26,Food,166.66,UPI,Swiggy order,2026-07
+2026-07-27,Food,505.16,UPI,Grocery store,2026-07
+2026-07-27,Education,1674.52,UPI,Exam fee,2026-07
+2026-07-28,Transport,515.19,Cash,Uber ride,2026-07
+2026-07-29,Food,460.92,UPI,Zomato dinner,2026-07
+2026-07-29,Food,510.77,Credit Card,Zomato dinner,2026-07
+2026-07-29,Transport,394.43,UPI,Uber ride,2026-07
+2026-07-30,Entertainment,595.26,Credit Card,Spotify,2026-07
+2026-07-30,Food,660.28,UPI,Tea and snacks,2026-07
+2026-07-31,Education,680.08,Cash,Exam fee,2026-07
+2026-07-31,Transport,300.95,Cash,Petrol,2026-07
+2026-07-31,Food,462.02,UPI,Swiggy order,2026-07
+2026-08-01,Education,479.6,UPI,Exam fee,2026-08
+2026-08-01,Entertainment,519.11,Cash,Spotify,2026-08
+2026-08-01,Rent,12000.0,UPI,Monthly rent,2026-08
+2026-08-03,Transport,473.62,Cash,Petrol,2026-08
+2026-08-04,Health,938.79,UPI,Doctor visit,2026-08
+2026-08-04,Food,274.95,UPI,Tea and snacks,2026-08
+2026-08-07,Education,1470.45,UPI,Textbook,2026-08
+2026-08-07,Food,691.71,Credit Card,Tea and snacks,2026-08
+2026-08-07,Transport,254.66,Credit Card,Uber ride,2026-08
+2026-08-08,Shopping,1840.8,UPI,Amazon purchase,2026-08
+2026-08-08,Food,607.33,Cash,Swiggy order,2026-08
+2026-08-08,Transport,502.22,UPI,Ola cab,2026-08
+2026-08-09,Transport,209.08,Debit Card,Petrol,2026-08
+2026-08-10,Shopping,1765.26,UPI,New shoes,2026-08
+2026-08-10,Entertainment,229.81,Debit Card,Movie tickets,2026-08
+2026-08-10,Food,698.16,Credit Card,Zomato dinner,2026-08
+2026-08-11,Food,229.31,UPI,Tea and snacks,2026-08
+2026-08-11,Food,644.6,Cash,Zomato dinner,2026-08
+2026-08-11,Food,83.37,UPI,Tea and snacks,2026-08
+2026-08-12,Entertainment,845.85,Credit Card,Movie tickets,2026-08
+2026-08-12,Entertainment,328.91,Credit Card,Movie tickets,2026-08
+2026-08-13,Entertainment,266.41,Credit Card,Netflix,2026-08
+2026-08-13,Food,392.81,Credit Card,Lunch at cafe,2026-08
+2026-08-13,Entertainment,180.11,UPI,Spotify,2026-08
+2026-08-17,Bills,1474.27,Cash,WiFi bill,2026-08
+2026-08-20,Food,628.17,Credit Card,Lunch at cafe,2026-08
+2026-08-20,Food,193.79,Debit Card,Swiggy order,2026-08
+2026-08-21,Entertainment,627.31,Cash,Netflix,2026-08
+2026-08-21,Food,666.54,UPI,Lunch at cafe,2026-08
+2026-08-22,Transport,266.26,UPI,Uber ride,2026-08
+2026-08-22,Bills,1044.0,Debit Card,Electricity bill,2026-08
+2026-08-25,Food,268.92,UPI,Swiggy order,2026-08
+2026-08-25,Food,444.75,UPI,Lunch at cafe,2026-08
+2026-08-25,Shopping,1732.72,UPI,Amazon purchase,2026-08
+2026-08-26,Transport,305.51,UPI,Uber ride,2026-08
+2026-08-26,Shopping,1064.05,Credit Card,Flipkart order,2026-08
+2026-08-26,Transport,356.83,Credit Card,Petrol,2026-08
+2026-08-27,Transport,390.57,UPI,Petrol,2026-08
+2026-08-28,Entertainment,520.61,UPI,Movie tickets,2026-08
+2026-08-28,Transport,331.35,Credit Card,Uber ride,2026-08
+2026-08-28,Bills,1352.32,Debit Card,WiFi bill,2026-08
+2026-08-31,Food,274.61,Credit Card,Tea and snacks,2026-08
+2026-08-31,Food,253.98,UPI,Tea and snacks,2026-08
+2026-08-31,Entertainment,792.41,UPI,Movie tickets,2026-08
+2026-09-01,Education,1793.2,Credit Card,Textbook,2026-09
+2026-09-01,Shopping,651.31,UPI,Amazon purchase,2026-09
+2026-09-01,Rent,12000.0,UPI,Monthly rent,2026-09
+2026-09-02,Bills,1117.03,UPI,Mobile recharge,2026-09
+2026-09-03,Food,209.62,Cash,Lunch at cafe,2026-09
+2026-09-03,Food,598.51,Debit Card,Swiggy order,2026-09
+2026-09-04,Entertainment,892.74,UPI,Netflix,2026-09
+2026-09-04,Transport,302.82,UPI,Ola cab,2026-09
+2026-09-04,Transport,259.84,UPI,Ola cab,2026-09
+2026-09-05,Health,149.11,UPI,Pharmacy,2026-09
+2026-09-07,Transport,368.41,UPI,Uber ride,2026-09
+2026-09-09,Entertainment,628.19,Cash,Movie tickets,2026-09
+2026-09-10,Entertainment,193.58,UPI,Spotify,2026-09
+2026-09-11,Entertainment,789.01,Cash,Netflix,2026-09
+2026-09-11,Food,603.58,UPI,Lunch at cafe,2026-09
+2026-09-12,Health,793.92,UPI,Pharmacy,2026-09
+2026-09-12,Transport,98.79,UPI,Metro recharge,2026-09
+2026-09-12,Shopping,2185.58,UPI,Flipkart order,2026-09
+2026-09-13,Food,95.39,Debit Card,Zomato dinner,2026-09
+2026-09-14,Food,451.06,UPI,Lunch at cafe,2026-09
+2026-09-15,Bills,1023.9,Debit Card,Mobile recharge,2026-09
+2026-09-16,Education,1473.01,Credit Card,Exam fee,2026-09
+2026-09-16,Transport,466.4,Debit Card,Petrol,2026-09
+2026-09-19,Transport,349.74,Cash,Petrol,2026-09
+2026-09-19,Education,1776.87,UPI,Exam fee,2026-09
+2026-09-20,Bills,650.44,UPI,Electricity bill,2026-09
+2026-09-20,Entertainment,517.27,Debit Card,Movie tickets,2026-09
+2026-09-21,Education,917.36,Credit Card,Textbook,2026-09
+2026-09-21,Food,424.39,Credit Card,Grocery store,2026-09
+2026-09-21,Entertainment,177.73,UPI,Spotify,2026-09
+2026-09-22,Food,498.69,Credit Card,Swiggy order,2026-09
+2026-09-22,Food,225.41,Cash,Tea and snacks,2026-09
+2026-09-22,Entertainment,799.09,Credit Card,Netflix,2026-09
+2026-09-24,Food,399.07,Cash,Lunch at cafe,2026-09
+2026-09-24,Food,608.72,UPI,Zomato dinner,2026-09
+2026-09-24,Transport,541.56,Cash,Uber ride,2026-09
+2026-09-25,Food,446.0,UPI,Swiggy order,2026-09
+2026-09-25,Health,306.35,UPI,Pharmacy,2026-09
+2026-09-25,Food,524.94,Credit Card,Lunch at cafe,2026-09
+2026-09-26,Food,332.92,UPI,Swiggy order,2026-09
+2026-09-26,Education,1351.32,Cash,Textbook,2026-09
+2026-09-26,Transport,552.57,UPI,Metro recharge,2026-09
+2026-09-29,Food,205.23,UPI,Grocery store,2026-09
+2026-09-30,Shopping,1120.91,UPI,New shoes,2026-09
+2026-10-01,Rent,12000.0,UPI,Monthly rent,2026-10
+2026-10-01,Transport,455.7,Cash,Petrol,2026-10
+2026-10-01,Bills,903.11,UPI,WiFi bill,2026-10
+2026-10-01,Food,281.71,Debit Card,Tea and snacks,2026-10
+2026-10-02,Health,411.57,Cash,Pharmacy,2026-10
+2026-10-02,Food,229.65,UPI,Swiggy order,2026-10
+2026-10-03,Entertainment,478.79,UPI,Spotify,2026-10
+2026-10-04,Shopping,2110.74,Debit Card,New shoes,2026-10
+2026-10-04,Entertainment,288.88,Cash,Movie tickets,2026-10
+2026-10-04,Shopping,2406.23,Cash,Amazon purchase,2026-10
+2026-10-05,Transport,215.04,UPI,Metro recharge,2026-10
+2026-10-05,Food,675.06,UPI,Lunch at cafe,2026-10
+2026-10-05,Food,232.56,UPI,Tea and snacks,2026-10
+2026-10-06,Food,267.28,UPI,Grocery store,2026-10
+2026-10-06,Transport,73.9,Cash,Uber ride,2026-10
+2026-10-06,Food,149.48,Credit Card,Lunch at cafe,2026-10
+2026-10-10,Transport,226.53,UPI,Petrol,2026-10
+2026-10-10,Entertainment,345.26,UPI,Spotify,2026-10
+2026-10-11,Transport,422.62,UPI,Uber ride,2026-10
+2026-10-11,Food,656.84,UPI,Lunch at cafe,2026-10
+2026-10-12,Bills,395.59,UPI,Electricity bill,2026-10
+2026-10-15,Shopping,907.44,Cash,Amazon purchase,2026-10
+2026-10-15,Food,196.76,UPI,Swiggy order,2026-10
+2026-10-15,Shopping,2183.81,UPI,Amazon purchase,2026-10
+2026-10-16,Food,649.65,UPI,Tea and snacks,2026-10
+2026-10-16,Shopping,2467.76,UPI,New shoes,2026-10
+2026-10-16,Shopping,741.76,Credit Card,New shoes,2026-10
+2026-10-17,Transport,217.88,UPI,Uber ride,2026-10
+2026-10-17,Food,294.82,UPI,Zomato dinner,2026-10
+2026-10-17,Food,575.51,Cash,Grocery store,2026-10
+2026-10-19,Health,753.21,UPI,Gym fee,2026-10
+2026-10-19,Bills,1160.15,UPI,Mobile recharge,2026-10
+2026-10-21,Food,90.28,Debit Card,Lunch at cafe,2026-10
+2026-10-21,Food,394.52,Debit Card,Zomato dinner,2026-10
+2026-10-22,Food,636.33,Credit Card,Lunch at cafe,2026-10
+2026-10-22,Shopping,973.69,UPI,Flipkart order,2026-10
+2026-10-23,Food,491.45,Credit Card,Lunch at cafe,2026-10
+2026-10-27,Transport,261.85,Cash,Petrol,2026-10
+2026-10-27,Food,621.81,UPI,Zomato dinner,2026-10
+2026-10-28,Transport,328.17,UPI,Uber ride,2026-10
+2026-10-28,Transport,464.72,Debit Card,Petrol,2026-10
+2026-10-29,Transport,268.46,UPI,Ola cab,2026-10
+2026-10-29,Transport,422.25,UPI,Ola cab,2026-10
+2026-10-29,Education,567.66,UPI,Exam fee,2026-10
+2026-10-30,Health,516.96,Cash,Gym fee,2026-10
+2026-10-30,Health,333.36,UPI,Gym fee,2026-10
+2026-10-30,Bills,1150.48,Credit Card,Mobile recharge,2026-10
+2026-10-31,Food,206.73,Credit Card,Zomato dinner,2026-10
+2026-10-31,Food,640.46,Credit Card,Tea and snacks,2026-10
+2026-11-01,Rent,12000.0,UPI,Monthly rent,2026-11
+2026-11-01,Education,865.72,Credit Card,Udemy course,2026-11
+2026-11-02,Transport,218.71,Cash,Ola cab,2026-11
+2026-11-02,Shopping,1259.19,Cash,Flipkart order,2026-11
+2026-11-02,Transport,150.18,UPI,Ola cab,2026-11
+2026-11-03,Food,180.98,Cash,Grocery store,2026-11
+2026-11-05,Education,665.4,UPI,Textbook,2026-11
+2026-11-06,Health,405.92,UPI,Gym fee,2026-11
+2026-11-06,Transport,302.31,UPI,Uber ride,2026-11
+2026-11-06,Food,378.52,Debit Card,Grocery store,2026-11
+2026-11-07,Transport,101.99,UPI,Uber ride,2026-11
+2026-11-07,Entertainment,807.53,Debit Card,Movie tickets,2026-11
+2026-11-09,Entertainment,612.57,Cash,Netflix,2026-11
+2026-11-09,Education,1729.5,UPI,Textbook,2026-11
+2026-11-09,Food,422.8,UPI,Swiggy order,2026-11
+2026-11-12,Food,608.2,Cash,Lunch at cafe,2026-11
+2026-11-13,Entertainment,305.11,Debit Card,Spotify,2026-11
+2026-11-13,Food,310.18,UPI,Swiggy order,2026-11
+2026-11-14,Health,210.44,UPI,Pharmacy,2026-11
+2026-11-16,Food,409.13,UPI,Grocery store,2026-11
+2026-11-16,Food,336.41,UPI,Swiggy order,2026-11
+2026-11-16,Bills,1306.74,Credit Card,Electricity bill,2026-11
+2026-11-18,Education,1631.98,Credit Card,Udemy course,2026-11
+2026-11-19,Transport,336.66,Cash,Petrol,2026-11
+2026-11-20,Transport,573.8,UPI,Metro recharge,2026-11
+2026-11-20,Food,236.97,UPI,Lunch at cafe,2026-11
+2026-11-20,Food,157.91,Debit Card,Lunch at cafe,2026-11
+2026-11-21,Health,453.69,Cash,Pharmacy,2026-11
+2026-11-23,Transport,337.86,UPI,Ola cab,2026-11
